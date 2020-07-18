@@ -1,7 +1,7 @@
 public class AddPrimaryContact implements Queueable{
     private Contact objCon;
     private String strState;
-    
+    //Comentarios
     public AddPrimaryContact(Contact objCon , String strState){
         this.objCon = objCon;
         this.strState = strState;
