@@ -230,6 +230,29 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Region__c</picklist>
+        <values>
+            <fullName>Centro</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Este</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Norte</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Oeste</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sur</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>SLA__c</picklist>
         <values>
             <fullName>Bronze</fullName>
